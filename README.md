@@ -6,7 +6,7 @@ Cyber Threat Intelligence | Investigación de amenazas | OSINT
 ---
 
 ## 🧠 Sobre mí
-Soy analista de **Cyber Threat Intelligence** y divulgador en ciberseguridad. Me especializo en identificar, contextualizar y comunicar amenazas digitales para ayudar a equipos a priorizar riesgos, mejorar detección y tomar decisiones basadas en inteligencia accionable. Tengo experiencia en investigación de malware, análisis de campañas, gestión de indicadores (IoCs) y uso de frameworks STIX/TAXII y plataformas como MISP y OpenCTI.
+Soy analista de **Cyber Threat Intelligence** y divulgador en ciberseguridad. Me especializo en identificar, contextualizar y comunicar amenazas digitales para ayudar a equipos a priorizar riesgos, mejorar detección y tomar decisiones basadas en inteligencia accionable. Tengo experiencia en investigación de malware, análisis de campañas, gestión de indicadores (IoC) y uso de frameworks STIX/TAXII y plataformas como MISP y OpenCTI.
 
 ---
 
@@ -51,23 +51,22 @@ Aprende a convertir datos en inteligencia útil: cómo priorizar IoCs, diseñar 
 ---
 
 ## 📈 Estadísticas de GitHub
-<!-- Puedes insertar imágenes generadas por GitHub readme stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inteliker&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=inteliker&show_icons=true&theme=dark)
 
 ---
 
 ## 🌐 Encuéntrame en
-- LinkedIn: `linkedin.com/in/tu-perfil`  
-- Twitter/X: `@tu_usuario`  
-- Email: `tu.email@ejemplo.com`  
+- X (Twitter): https://x.com/inteliker  
+- LinkedIn: https://www.linkedin.com/in/ikerperaltacondes/  
+- Página personal / portfolio: https://inteliker.github.io/  
+- Email: ikerperalta@proton.me
 
 ---
 
 ## 📫 ¿Quieres colaborar o necesitas inteligencia accionable?
-Estoy abierto a colaboraciones, consultoría y charlas. Envíame un mensaje en LinkedIn o un correo y vemos cómo puedo ayudar.
+Estoy abierto a colaboraciones, consultoría y charlas. Envíame un mensaje en LinkedIn, X o un correo y vemos cómo puedo ayudar.
 
 ---
 
 > _“La inteligencia no es saber todo lo que pasó; es saber qué es importante y qué hacer con ello.”_
-
