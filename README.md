@@ -1,72 +1,47 @@
-# Iker Peralta Condes — Cyber Threat Intelligence
+# 👋 Hola, soy Iker Peralta Condes
 
-🔎 Iker Peralta Condes  
-Cyber Threat Intelligence | Investigación de amenazas | OSINT
-
----
-
-## 🧠 Sobre mí
-Soy analista de **Cyber Threat Intelligence** y divulgador en ciberseguridad. Me especializo en identificar, contextualizar y comunicar amenazas digitales para ayudar a equipos a priorizar riesgos, mejorar detección y tomar decisiones basadas en inteligencia accionable. Tengo experiencia en investigación de malware, análisis de campañas, gestión de indicadores (IoC) y uso de frameworks STIX/TAXII y plataformas como MISP y OpenCTI.
+💻 **Cyber Threat Intelligence Analyst** | 🔍 Investigador de amenazas | 🧠 Entusiasta de la seguridad ofensiva y el análisis forense digital
 
 ---
 
-## 🎯 En qué me enfoco
-- Recolección y análisis OSINT y HUMINT para detección temprana.  
-- Enriquecimiento y correlación de indicadores (IoC) y TTPs (Tácticas, Técnicas y Procedimientos).  
-- Threat modeling y creación de reportes tácticos y estratégicos.  
-- Integración de inteligencia en SIEMs y sistemas de respuesta (SOAR).  
-- Análisis de malware y seguimiento de campañas (APT / crimen organizado).
+## 🧩 Sobre mí
+
+Soy analista de **Cyber Threat Intelligence (CTI)**, especializado en la identificación, rastreo y análisis de amenazas cibernéticas. Me apasiona entender cómo operan los actores de amenaza, sus tácticas, técnicas y procedimientos (TTPs), y transformar esa información en inteligencia accionable.
+
+Trabajo en la intersección entre la **ciberseguridad técnica** y la **inteligencia estratégica**, ayudando a organizaciones a anticipar y mitigar riesgos emergentes.
 
 ---
 
-## 🛠️ Herramientas y plataformas que uso
-- Plataformas CTI: **MISP**, **OpenCTI**, **TheHive**, **Cortex**  
-- Recolección / Enriquecimiento: **Maltego**, **VirusTotal**, **Shodan**, **OTX**, **PassiveTotal**  
-- Análisis de muestra: sandboxes, **YARA**, herramientas de análisis estático/dinámico  
-- Integración / formatos: **STIX 2.0**, **TAXII**, **MISP** feeds  
-- Automatización / SOAR: scripts Python, playbooks para **TheHive/Cortex**  
-- OSINT: herramientas de scraping/metadata, redes sociales, registradores WHOIS, certificados TLS
+## 🔎 Áreas de interés
 
----
-
-## 🕵️‍♂️ Habilidades
-- Threat Intelligence (táctico / operativo / estratégico)  
-- OSINT avanzado y clasificación de fuentes  
-- Análisis de campañas y attribution (junto con limitaciones metodológicas)  
-- Enriquecimiento de IOC y pipelines de ingestión  
-- Comunicación técnica y creación de reportes ejecutivos
-
----
-
-## 🏆 Reconocimientos / Formación
-- Cursos y certificaciones relevantes (añade los tuyos: ejemplo: CTI, GCTI, cursos de malware)  
-- Participación en comunidades / conferencias / publicaciones (añade enlaces si quieres)
-
----
-
-## 📚 Curso destacado
-**Curso: Inteligencia de Amenazas en la Práctica**  
-Aprende a convertir datos en inteligencia útil: cómo priorizar IoCs, diseñar playbooks, y usar plataformas CTI para proteger activos críticos.
-
----
-
-## 📈 Estadísticas de GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inteliker&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=inteliker&show_icons=true&theme=dark)
+- Análisis de malware y APTs  
+- Investigación de fuentes abiertas (OSINT)  
+- Modelos de amenazas y MITRE ATT&CK  
+- Dark web monitoring y threat hunting  
+- Automatización de inteligencia con Python y herramientas CTI  
 
 ---
 
 ## 🌐 Encuéntrame en
-- X (Twitter): https://x.com/inteliker  
-- LinkedIn: https://www.linkedin.com/in/ikerperaltacondes/  
-- Página personal / portfolio: https://inteliker.github.io/  
-- Email: ikerperalta@proton.me
+
+- 🌍 **Web personal:** [inteliker.github.io](https://inteliker.github.io/)  
+- 🐦 **X (Twitter):** [@inteliker](https://x.com/inteliker)  
+- 💼 **LinkedIn:** [Iker Peralta Condes](https://www.linkedin.com/in/ikerperaltacondes/)  
 
 ---
 
-## 📫 ¿Quieres colaborar o necesitas inteligencia accionable?
-Estoy abierto a colaboraciones, consultoría y charlas. Envíame un mensaje en LinkedIn, X o un correo y vemos cómo puedo ayudar.
+## ⚙️ Herramientas y tecnologías
+
+🧰 Python · YARA · MISP · Maltego · Sigma · Splunk · Elastic Stack · Wireshark · Mitre ATT&CK Navigator  
 
 ---
 
-> _“La inteligencia no es saber todo lo que pasó; es saber qué es importante y qué hacer con ello.”_
+## 📊 Datos curiosos
+
+- 🔬 Siempre explorando nuevas metodologías para el **Threat Attribution**  
+- 🕵️‍♂️ Creo en la inteligencia colaborativa como pilar de la ciberdefensa  
+- ☕ Café y logs: mi combinación favorita  
+
+---
+
+⭐️ _"La mejor defensa comienza con entender al adversario."_
