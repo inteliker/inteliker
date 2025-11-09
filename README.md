@@ -76,15 +76,10 @@ Mi trabajo se centra en la **monitorización de actores de amenaza, el análisis
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inteliker&show_icons=true&theme=codeSTACKr&hide_border=true)  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=inteliker&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&hide_border=true)
 
 </div>
 <br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cyber+Threat+Intelligence;Deep+%26+Dark+Web+Research;OSINT+Automation;Threat+Actor+Monitoring;MISP+%7C+OpenCTI+%7C+YARA" alt="typing animation"/>
-</p>
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=inteliker&theme=react&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=00FF99&currStreakLabel=00FF99&sideLabels=FFFFFF" alt="GitHub Streak Stats" />
@@ -114,7 +109,3 @@ Mi trabajo se centra en la **monitorización de actores de amenaza, el análisis
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cyber+Threat+Intelligence;Deep+%26+Dark+Web+Research;Threat+Actor+Monitoring;OSINT+%7C+MISP+%7C+OpenCTI+%7C+YARA" alt="typing animation"/>
-</p>
