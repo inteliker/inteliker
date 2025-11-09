@@ -80,18 +80,20 @@ Mi trabajo se centra en la **monitorización de actores de amenaza, el análisis
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=inteliker&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&hide_border=true)
 
 </div>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Cyber+Threat+Intelligence;Deep+%26+Dark+Web+Research;OSINT+Automation;Threat+Actor+Monitoring;MISP+%7C+OpenCTI+%7C+YARA" alt="typing animation"/>
+</p>
+
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=inteliker&count_private=true&theme=react&border_radius=10&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=00FF99&currStreakLabel=00FF99&sideLabels=FFFFFF" alt="GitHub Streak Stats" />
-  
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=inteliker&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF" alt="GitHub Stats" />
-  
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=inteliker&theme=react&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=00FF99&currStreakLabel=00FF99&sideLabels=FFFFFF" alt="GitHub Streak Stats" />
+
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=inteliker&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF" alt="GitHub Stats" />
+
   <br/>
-  
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=inteliker&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inteliker&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
 
