@@ -88,7 +88,9 @@ Mi trabajo se centra en la **monitorización de actores de amenaza, el análisis
 
   <br/>
 
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inteliker&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inteliker&layout=compact&theme=radical" alt="Top languages"/>
+</p>
 </div>
 
 
